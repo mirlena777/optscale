@@ -12,3 +12,7 @@ Integrating Databricks accounts into the Hystax OptScale platform introduces a s
 - Unified experience: The connected Databricks data source is managed in the same familiar way as other data sources in OptScale.
 - Cost allocation: OptScale captures metadata from Databricks resources, such as name, tags, and region, enabling effective cost allocation.
 - Custom pricing support: If your organization has an agreement with Databricks and uses custom rates for Databricks services, these can be reflected in the connection properties. This alignment ensures the expenses shown in OptScale match your final bill.
+## Future roadmap for Databricks integration
+For Hystax, the current state of Databricks account integration is not the limit, and we plan to extend this functionality further to allow ML companies to achieve complete cost transparency and control over Databricks costs.
+
+One of the upcoming features is linking Databricks expenses with the expenses of the underlying cloud infrastructure for a comprehensive view and better transparency. This approach will enable organizations to understand their cloud spending details fully.
