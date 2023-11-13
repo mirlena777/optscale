@@ -1,6 +1,6 @@
 # Hystax OptScale integrates Databricks accounts for improved ML/AI resource management
 <p align="center">
-<img src="documentation/images/Databricks-support.png" width="40%" align="middle">
+<img src="documentation/images/Databricks-account-support.png" width="40%" align="middle">
 </p>
 Hystax is excited to announce a new feature within the OptScale MLOps platform: integrating Databricks account connections.
 <br>
