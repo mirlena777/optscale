@@ -4,8 +4,9 @@
 </p>
 Hystax is excited to announce a new feature within the OptScale MLOps platform: integrating Databricks account connections.
 <br>
-
+<br>
 Responding to customers’ feedback and committed to enhancing cloud usage efficiency, we have recognized the importance of including Databricks expense tracking in OptScale. This functionality provides a detailed and controlled approach to managing Databricks expenses.
+
 ## Feature overview
 Integrating Databricks accounts into the Hystax OptScale platform introduces a suite of ML/AI features designed to improve visibility and control over Databricks expenses. Here's a brief overview of the key functionalities:
 
