@@ -1,4 +1,4 @@
-# Hystax OptScale integrates Databricks accounts for improved ML/AI resource management
+# Hystax OptScale integrates Databricks cost management for improved ML/AI resource management
 <p align="center">
 <img src="documentation/images/Databricks-account-support.png" width="40%" align="middle">
 </p>
